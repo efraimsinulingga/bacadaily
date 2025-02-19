@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.title {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.bg-sidebar-overlay {
+  background: rgba(255,255,255,0.75);
+}
