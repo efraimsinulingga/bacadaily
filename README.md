@@ -8,4 +8,4 @@ https://eventregistry.org/api/v1/article/getArticles
 
 ## Demo
 
-https://emdastra.com/bacadaily
+https://bacadaily.emdastra.com/
